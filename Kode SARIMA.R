@@ -347,3 +347,4 @@ abs(nilai.asli-values4)
 #Maka Model terbaik dalam memodelkan data adalah model keempat yaitu SARIMA(0,2,3)(1,1,1)[12]
 #Karena semua diagnostik dari model keempat menunjukkan hasil yang baik dan tidak terdapat asumsi yang ditolak
 
+
